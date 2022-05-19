@@ -1,0 +1,25 @@
+imagens:
+https://www.pexels.com/pt-br/
+
+paletas de cor:
+https://color.adobe.com/pt/create/color-wheel
+https://paletton.com
+https://coolors.co/
+
+capturar cores de tela:
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=google&utm_medium=cpc&utm_campaign=ga-search-competitors-troywell-vpn-bra-ww&utm_content=ch_google_adwords%7Ctrg_kwd-18548656626%7Ccrt_569420362921%7Cgid_131068410717%7Ccid_15556825137%7Ckwmt_b%7Cps_%7Csrct_g%7Ctrgt_%7Csrc_%7Cdevt_c%7Cdevm_%7Clcl_1031508%7Cfdi_%7Cmrlid_4878%7Cdop_&utm_term=chrome%20web%20store&gclid=EAIaIQobChMIq9n_6fi-9wIVPRXUAR1b8QKbEAAYASAAEgJjn_D_BwE
+
+fontes:
+fonts.google.com
+dafont.com
+
+identificar fontes:
+whatfontis.com
+myfonts.com
+fotsquirrel.com
+
+Simbolos especiais:
+https://erikasarti.com/html/dingbats-simbolos-desenhos/
+
+emojis:
+https://emojipedia.org/
