@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+body {
+    background-color: darkcyan;
+}
+
+section#container {
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    background-image: url("espaco.jpg");
+    
+}
+
+div#conteudo {
+    background-image: url("astronauta.png");
+    background-size: 100% 100%;
+    position: absolute;
+    min-width: 60vh;
+    min-height: 60vh;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
